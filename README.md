@@ -1,2 +1,2 @@
-# My-First-Repo
+# my-first-ai-app
 A Short Project Summary
